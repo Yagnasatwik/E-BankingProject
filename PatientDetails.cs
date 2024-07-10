@@ -12,7 +12,7 @@ namespace Day10HPM
         public string PatientName { get; set; }
         //public int InPatientID;
         public int PatientAge { get; set; }
-        public string PatientDOB { get; set; }
+        public string PatientDob { get; set; }
         public string PatientAddress { get; set; }
         public string ReferringDoctor { get; set; }
 
