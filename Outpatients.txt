@@ -1,0 +1,2 @@
+Name: rohit   Disease: Pneumonia    Consultung Doctor: Dr. Arundati    HoursAdmitted: 46      PatientBill: 24000
+Name: rahul   Disease: Pneumonia    Consultung Doctor: Dr. Arundati    HoursAdmitted: 16      PatientBill: 9000
