@@ -1,0 +1,2 @@
+Name: satwik   Disease: Pneumonia    Reffering Doctor: Dr. Hussain    HoursAdmitted: 7
+Name: yagna   Disease: Pneumonia    Reffering Doctor: Dr. Hussain    HoursAdmitted: 32
